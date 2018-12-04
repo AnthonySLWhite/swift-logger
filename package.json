@@ -1,5 +1,5 @@
 {
-  "name": "@anthonywhite/swift-logger",
+  "name": "swift-log",
   "version": "1.0.1",
   "description": "A quick file logger",
   "main": "dist/app.js",
