@@ -1,13 +1,13 @@
-# Swift-Logger
+# Swift-Log
 
-Swift-Logger is a node.js log function that exports to a directory and file of your own choosing.
+Swift-Log is a node.js log function that exports to a directory and file of your own choosing.
 
 ## Installation
 
-Use the package manager [NPM](https://www.npmjs.com/package/@anthonywhite/swift-logger) to install Swift-Logger.
+Use the package manager [NPM](https://www.npmjs.com/package/swift-log) to install Swift-Log.
 
 ```bash
-npm i @anthonywhite/swift-logger --save
+npm i swift-log --save
 ```
 
 ## Usage
